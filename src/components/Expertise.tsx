@@ -7,26 +7,26 @@ import '../assets/styles/Expertise.scss';
 
 const labelsFirst = [
     "React",
+    "Nextjs",
     "TypeScript",
     "JavaScript",
     "HTML5",
     "CSS3",
-    "SASS",
-    "Flask",
+    "Tilwind",
+    "FastAPI",
     "Python",
     "SQL",
     "PostgreSQL",
-    "Postman"
+    "Postman",
+    "Mongodb"
 ];
 
 const labelsSecond = [
     "Git",
     "GitHub Actions",
     "Docker",
-    "AWS",
-    "Azure",
+    "Kubernetes",
     "Linux",
-    "Snowflake",
     "Pandas",
     "Selenium",
 ];
