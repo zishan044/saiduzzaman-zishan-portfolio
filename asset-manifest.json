@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/saiduzzaman-zishan-portfolio/static/css/main.71f51738.css",
-    "main.js": "/saiduzzaman-zishan-portfolio/static/js/main.534016ff.js",
+    "main.js": "/saiduzzaman-zishan-portfolio/static/js/main.055a7954.js",
     "static/js/453.6fb1045d.chunk.js": "/saiduzzaman-zishan-portfolio/static/js/453.6fb1045d.chunk.js",
     "static/media/mock10.png": "/saiduzzaman-zishan-portfolio/static/media/mock10.2d05b02ba569a430a255.png",
     "static/media/mock09.png": "/saiduzzaman-zishan-portfolio/static/media/mock09.e18677ccfc932e52d754.png",
@@ -15,13 +15,14 @@
     "static/media/mock01.png": "/saiduzzaman-zishan-portfolio/static/media/mock01.61bd486a54bf6e17ee5a.png",
     "static/media/mock02.png": "/saiduzzaman-zishan-portfolio/static/media/mock02.bced48ae9cdda3acf1a3.png",
     "static/media/mock03.png": "/saiduzzaman-zishan-portfolio/static/media/mock03.a4600719e0b5d2a3155b.png",
+    "static/media/avatar.png": "/saiduzzaman-zishan-portfolio/static/media/avatar.61b2b474443f2d855452.png",
     "index.html": "/saiduzzaman-zishan-portfolio/index.html",
     "main.71f51738.css.map": "/saiduzzaman-zishan-portfolio/static/css/main.71f51738.css.map",
-    "main.534016ff.js.map": "/saiduzzaman-zishan-portfolio/static/js/main.534016ff.js.map",
+    "main.055a7954.js.map": "/saiduzzaman-zishan-portfolio/static/js/main.055a7954.js.map",
     "453.6fb1045d.chunk.js.map": "/saiduzzaman-zishan-portfolio/static/js/453.6fb1045d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.71f51738.css",
-    "static/js/main.534016ff.js"
+    "static/js/main.055a7954.js"
   ]
 }
